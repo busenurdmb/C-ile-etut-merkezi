@@ -1,0 +1,11 @@
+C:\Users\BUSE NUR\source\repos\ETUT_TEST\ETUT_TEST\bin\Debug\ETUT_TEST.exe.config
+C:\Users\BUSE NUR\source\repos\ETUT_TEST\ETUT_TEST\bin\Debug\ETUT_TEST.exe
+C:\Users\BUSE NUR\source\repos\ETUT_TEST\ETUT_TEST\bin\Debug\ETUT_TEST.pdb
+C:\Users\BUSE NUR\source\repos\ETUT_TEST\ETUT_TEST\obj\Debug\ETUT_TEST.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\ETUT_TEST\ETUT_TEST\obj\Debug\ETUT_TEST.Form1.resources
+C:\Users\BUSE NUR\source\repos\ETUT_TEST\ETUT_TEST\obj\Debug\ETUT_TEST.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\ETUT_TEST\ETUT_TEST\obj\Debug\ETUT_TEST.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\ETUT_TEST\ETUT_TEST\obj\Debug\ETUT_TEST.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\ETUT_TEST\ETUT_TEST\obj\Debug\ETUT_TEST.exe
+C:\Users\BUSE NUR\source\repos\ETUT_TEST\ETUT_TEST\obj\Debug\ETUT_TEST.pdb
+C:\Users\BUSE NUR\source\repos\ETUT_TEST\ETUT_TEST\obj\Debug\ETUT_TEST.Form2.resources
